@@ -5,7 +5,3 @@ Este curso se trata de uma breve introdução a Python3 e aos módulos Numpy e P
 ## Primeiros passos em Python3
 
 Antes de comerçarmos o curso é necessário a instalação do Python3 através do [Anaconda](https://www.anaconda.com/). Usaremos o tutorial disponibilizado no [Anaconda.Documentation](https://docs.anaconda.com/anaconda/):
-
-    - [Windows](https://docs.anaconda.com/anaconda/install/windows/)
-    - [MacOS](https://docs.anaconda.com/anaconda/install/mac-os/)
-    - [Linux](https://docs.anaconda.com/anaconda/install/linux/)
