@@ -1,7 +1,64 @@
 # Introducao a Python3
 
-Este curso se trata de uma breve introdução a Python3 e aos módulos Numpy e Pandas. Temos como objetivo introduzir o aluno a linguagem de programação Python para que, ao final do curso, ele possam estar criando seus primeiros programas. Contudo, buscamos oferecer ao aluno ferramentas que o ajudem a avançar seus estudos em Python, seja no uso da linguagem ná área ciêntifica tanto na área tecnologica. Sera feito um estudo adicional a alguns módulos muito utilizados por pesquisadores e deselvolvedores em todo mundo, como por exemplo, Numpy e Pandas. O uso desses módulos se tornou popular no mundo todo por sua capacidade de tornar o Python, uma linguagem de programação de alto-nível, tão eficiente como a linguagem C. Sendo assim, tona-se de grande impotância a discussão desses módulos como forma de complementar o entendimento do aluno sobre o uso do Python. 
+Este curso tem como objetivo geral introduzir o aluno em programação de computadores usando a linguagem Python. Serão abordados neste curso os principais recursos de Python, tendo como objetivo o aprendizado para aqueles que desejam dar os primeiros passos em programação e também aqueles que desejam avançar nos estudos acerca da programação na linguagem Python. De forma mais específica, o curso abordará conteúdos que incluem:
 
-## Primeiros passos em Python3
+- Instalação dos programas e compiladores necessários para o estudo da 
+programação;
+- Apresentação geral da linguagem;
+- Variáveis e tipos de dados;
+- Estruturas lógicas e condicionais; 
+- Estruturas de decisão e repetição; 
+- Coleções (listas, tuplas, sets, etc.); 
+- Funções;
+- Leitura e escrita em arquivos; 
+- Aplicações em situações científicas.
 
-Antes de comerçarmos o curso é necessário a instalação do Python3 através do [Anaconda](https://www.anaconda.com/). Usaremos o tutorial disponibilizado no [Anaconda.Documentation](https://docs.anaconda.com/anaconda/):
+# Primeiros passos em Python3
+
+Antes de comerçarmos o curso é necessário a instalação do Python3 através do [Anaconda](https://www.anaconda.com/). Usaremos o tutorial disponibilizado no [Anaconda.Documentation](https://docs.anaconda.com/anaconda/) para instalação do Python. Os vídeos de instalação e as aulas estarão disponiveis no meu canal:
+
+https://www.youtube.com/channel/UCMs3FTVNoIJ5obGVjVZVW-g?view_as=subscriber
+
+# Estrura do Curso
+
+## Semana 0
+
+1. Instalação do Anaconda
+2. Github, Jupyter, Colab
+3. [Introdução](#Introdução)
+
+## Semana 1
+
+1. [Tipos de objetos básicos](#Tipos-de-objetos-básicos)
+2. [Mais operadores](#Mais-operadores)
+3. [Manipulação de variáveis](#Manipulação-de-variáveis)
+4. [Funções básicas](#Funções-básicas)
+5. [Debugging](#Debugging)
+
+## Semana 2
+
+1. [Funções](#Funções)
+2. [Estrutura de seleção](#Estrutura-de-seleção)
+
+## Semana 3
+
+1. [Recursividade](#Recursividade)
+2. [Estrutura de looping](#Estrutura-de-looping)
+
+## Semana 4
+
+1. [Sequencia de objetos](#Sequencia-de-objetos)
+2. [Arquivos de texto](#Arquivos-de-texto)
+
+## Semana 5
+
+1. [Conjunto](#Conjunto)
+2. [Dicionário](#Dicionário)
+
+## Semana 6
+
+1. Numpy
+
+## Semana 7
+
+1. Pandas
