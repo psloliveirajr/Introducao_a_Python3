@@ -25,35 +25,35 @@ https://www.youtube.com/channel/UCMs3FTVNoIJ5obGVjVZVW-g?view_as=subscriber
 
 1. Instalação do Anaconda
 2. Github, Jupyter, Colab
-3. [Introdução](#Introdução)
+3. [Introdução](Curso.ipynb#Introdução)
 
 ## Semana 1
 
-1. [Tipos de objetos básicos](#Tipos-de-objetos-básicos)
-2. [Mais operadores](#Mais-operadores)
-3. [Manipulação de variáveis](#Manipulação-de-variáveis)
-4. [Funções básicas](#Funções-básicas)
-5. [Debugging](#Debugging)
+1. [Tipos de objetos básicos](Curso.ipynb#Tipos-de-objetos-básicos)
+2. [Mais operadores](Curso.ipynb#Mais-operadores)
+3. [Manipulação de variáveis](Curso.ipynb#Manipulação-de-variáveis)
+4. [Funções básicas](Curso.ipynb#Funções-básicas)
+5. [Debugging](Curso.ipynb#Debugging)
 
 ## Semana 2
 
-1. [Funções](#Funções)
-2. [Estrutura de seleção](#Estrutura-de-seleção)
+1. [Funções](Curso.ipynb#Funções)
+2. [Estrutura de seleção](Curso.ipynb#Estrutura-de-seleção)
 
 ## Semana 3
 
-1. [Recursividade](#Recursividade)
-2. [Estrutura de looping](#Estrutura-de-looping)
+1. [Recursividade](Curso.ipynb#Recursividade)
+2. [Estrutura de looping](Curso.ipynb#Estrutura-de-looping)
 
 ## Semana 4
 
-1. [Sequencia de objetos](#Sequencia-de-objetos)
-2. [Arquivos de texto](#Arquivos-de-texto)
+1. [Sequencia de objetos](Curso.ipynb#Sequencia-de-objetos)
+2. [Arquivos de texto](Curso.ipynb#Arquivos-de-texto)
 
 ## Semana 5
 
-1. [Conjunto](#Conjunto)
-2. [Dicionário](#Dicionário)
+1. [Conjunto](Curso.ipynb#Conjunto)
+2. [Dicionário](Curso.ipynb#Dicionário)
 
 ## Semana 6
 
