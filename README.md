@@ -1,6 +1,10 @@
 # Introducao a Python3
 
-Este curso tem como objetivo geral introduzir o aluno em programação de computadores usando a linguagem Python. Serão abordados neste curso os principais recursos de Python, tendo como objetivo o aprendizado para aqueles que desejam dar os primeiros passos em programação e também aqueles que desejam avançar nos estudos acerca da programação na linguagem Python. De forma mais específica, o curso abordará conteúdos que incluem:
+Este curso tem como objetivo geral introduzir o aluno em programação de 
+computadores usando a linguagem Python. Serão abordados neste curso os principais 
+recursos de Python, tendo como objetivo o aprendizado para aqueles que desejam dar os 
+primeiros passos em programação e também aqueles que desejam avançar nos estudos acerca da programação na linguagem Python.
+ De forma mais específica, o curso abordará conteúdos que incluem:
 
 - Instalação dos programas e compiladores necessários para o estudo da 
 programação;
@@ -37,8 +41,8 @@ https://www.youtube.com/channel/UCMs3FTVNoIJ5obGVjVZVW-g?view_as=subscriber
 
 ## Semana 2
 
-1. [Funções](Curso.ipynb#Funções)
-2. [Estrutura de seleção](Curso.ipynb#Estrutura-de-seleção)
+1. [Estrutura de seleção](Curso.ipynb#Estrutura-de-seleção)
+2. [Funções](Curso.ipynb#Funções)
 
 ## Semana 3
 
