@@ -52,17 +52,18 @@ https://www.youtube.com/channel/UCMs3FTVNoIJ5obGVjVZVW-g?view_as=subscriber
 ## Semana 4
 
 1. [Sequencia de objetos](Curso.ipynb#Sequencia-de-objetos)
-2. [Arquivos de texto](Curso.ipynb#Arquivos-de-texto)
 
 ## Semana 5
+
+1. [String como sequência](Curso.ipynb#String-como-sequência)
+2. [Arquivos de texto](Curso.ipynb#Arquivos-de-texto)
+
+## Semana 6
 
 1. [Conjunto](Curso.ipynb#Conjunto)
 2. [Dicionário](Curso.ipynb#Dicionário)
 
-## Semana 6
-
-1. Numpy
-
 ## Semana 7
 
-1. Pandas
+1. Numpy
+2. Pandas
