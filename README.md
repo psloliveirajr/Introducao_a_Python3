@@ -55,7 +55,7 @@ https://www.youtube.com/channel/UCMs3FTVNoIJ5obGVjVZVW-g?view_as=subscriber
 
 ## Semana 5
 
-1. [String como sequênciao](Curso.ipynb#String-como-sequência)
+1. [String como sequência](Curso.ipynb#String-como-sequência)
 2. [Arquivos de texto](Curso.ipynb#Arquivos-de-texto)
 
 ## Semana 6
