@@ -1,5 +1,7 @@
 # Fundamentos de Linguagem de Programação em Python
 
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/psloliveirajr/Introducao_a_Python3/blob/master/00.Sumario.ipynb)
+
 Este curso tem como objetivo geral introduzir o aluno em programação de computadores usando a linguagem Python. 
 Serão abordados neste curso os principais recursos de Python, tendo como objetivo o aprendizado para aqueles que desejam dar os primeiros passos em programação e também aqueles que desejam avançar nos estudos acerca da programação na linguagem Python.
 De forma mais específica, o curso abordará conteúdos que incluem:
