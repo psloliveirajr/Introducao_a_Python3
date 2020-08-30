@@ -65,6 +65,6 @@ https://www.youtube.com/channel/UCMs3FTVNoIJ5obGVjVZVW-g?view_as=subscriber
 
 ## Semana 7
 
-1. [Módulos](15.Dicionario.ipynb)
+1. [Módulos](15.Modulos.ipynb)
 2. [Numpy](16.Numpy.ipynb)
 3. [Pandas](17.Pandas.ipynb)
